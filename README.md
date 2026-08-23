@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0414-third-maximum-number](https://github.com/likhithanarayana6-droid/Leetcode/tree/master/0414-third-maximum-number) |
 | [0525-contiguous-array](https://github.com/likhithanarayana6-droid/Leetcode/tree/master/0525-contiguous-array) |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/likhithanarayana6-droid/Leetcode/tree/master/2760-longest-even-odd-subarray-with-threshold) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/likhithanarayana6-droid/Leetcode/tree/master/2932-maximum-strong-pair-xor-i) |
@@ -45,4 +46,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0525-contiguous-array](https://github.com/likhithanarayana6-droid/Leetcode/tree/master/0525-contiguous-array) |
+## Sorting
+|  |
+| ------- |
+| [0414-third-maximum-number](https://github.com/likhithanarayana6-droid/Leetcode/tree/master/0414-third-maximum-number) |
 <!---LeetCode Topics End-->
