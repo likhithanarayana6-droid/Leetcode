@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/likhithanarayana6-droid/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0525-contiguous-array](https://github.com/likhithanarayana6-droid/Leetcode/tree/master/0525-contiguous-array) |
 | [0904-fruit-into-baskets](https://github.com/likhithanarayana6-droid/Leetcode/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/likhithanarayana6-droid/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/likhithanarayana6-droid/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/likhithanarayana6-droid/Leetcode/tree/master/2932-maximum-strong-pair-xor-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/likhithanarayana6-droid/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/likhithanarayana6-droid/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/likhithanarayana6-droid/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0904-fruit-into-baskets](https://github.com/likhithanarayana6-droid/Leetcode/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/likhithanarayana6-droid/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/likhithanarayana6-droid/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/likhithanarayana6-droid/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/likhithanarayana6-droid/Leetcode/tree/master/2760-longest-even-odd-subarray-with-threshold) |
@@ -39,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/likhithanarayana6-droid/Leetcode/tree/master/0414-third-maximum-number) |
 | [0525-contiguous-array](https://github.com/likhithanarayana6-droid/Leetcode/tree/master/0525-contiguous-array) |
 | [0904-fruit-into-baskets](https://github.com/likhithanarayana6-droid/Leetcode/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/likhithanarayana6-droid/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/likhithanarayana6-droid/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/likhithanarayana6-droid/Leetcode/tree/master/2760-longest-even-odd-subarray-with-threshold) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/likhithanarayana6-droid/Leetcode/tree/master/2932-maximum-strong-pair-xor-i) |
@@ -54,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0525-contiguous-array](https://github.com/likhithanarayana6-droid/Leetcode/tree/master/0525-contiguous-array) |
+| [0930-binary-subarrays-with-sum](https://github.com/likhithanarayana6-droid/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/likhithanarayana6-droid/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Sorting
 |  |
