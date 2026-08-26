@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/likhithanarayana6-droid/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/likhithanarayana6-droid/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/likhithanarayana6-droid/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/likhithanarayana6-droid/Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/likhithanarayana6-droid/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Sliding Window
 |  |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/likhithanarayana6-droid/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/likhithanarayana6-droid/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/likhithanarayana6-droid/Leetcode/tree/master/2760-longest-even-odd-subarray-with-threshold) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/likhithanarayana6-droid/Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/likhithanarayana6-droid/Leetcode/tree/master/2932-maximum-strong-pair-xor-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/likhithanarayana6-droid/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Counting
