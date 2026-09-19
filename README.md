@@ -86,4 +86,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/likhithanarayana6-droid/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+## Math
+|  |
+| ------- |
+| [1401-circle-and-rectangle-overlapping](https://github.com/likhithanarayana6-droid/Leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
+## Geometry
+|  |
+| ------- |
+| [1401-circle-and-rectangle-overlapping](https://github.com/likhithanarayana6-droid/Leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
