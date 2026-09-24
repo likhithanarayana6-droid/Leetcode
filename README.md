@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/likhithanarayana6-droid/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/likhithanarayana6-droid/Leetcode/tree/master/2760-longest-even-odd-subarray-with-threshold) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/likhithanarayana6-droid/Leetcode/tree/master/2932-maximum-strong-pair-xor-i) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/likhithanarayana6-droid/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/likhithanarayana6-droid/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3903-smallest-stable-index-i](https://github.com/likhithanarayana6-droid/Leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/likhithanarayana6-droid/Leetcode/tree/master/3904-smallest-stable-index-ii) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1401-circle-and-rectangle-overlapping](https://github.com/likhithanarayana6-droid/Leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/likhithanarayana6-droid/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Geometry
 |  |
 | ------- |
