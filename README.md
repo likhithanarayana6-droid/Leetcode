@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/likhithanarayana6-droid/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/likhithanarayana6-droid/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/likhithanarayana6-droid/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0525-contiguous-array](https://github.com/likhithanarayana6-droid/Leetcode/tree/master/0525-contiguous-array) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/likhithanarayana6-droid/Leetcode/tree/master/0015-3sum) |
+| [0128-longest-consecutive-sequence](https://github.com/likhithanarayana6-droid/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/likhithanarayana6-droid/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/likhithanarayana6-droid/Leetcode/tree/master/0414-third-maximum-number) |
 | [0525-contiguous-array](https://github.com/likhithanarayana6-droid/Leetcode/tree/master/0525-contiguous-array) |
@@ -107,4 +109,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/likhithanarayana6-droid/Leetcode/tree/master/0015-3sum) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/likhithanarayana6-droid/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
