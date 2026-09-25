@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/likhithanarayana6-droid/Leetcode/tree/master/0015-3sum) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/likhithanarayana6-droid/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/likhithanarayana6-droid/Leetcode/tree/master/0414-third-maximum-number) |
 | [0525-contiguous-array](https://github.com/likhithanarayana6-droid/Leetcode/tree/master/0525-contiguous-array) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/likhithanarayana6-droid/Leetcode/tree/master/0015-3sum) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/likhithanarayana6-droid/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/likhithanarayana6-droid/Leetcode/tree/master/0414-third-maximum-number) |
 ## Binary Search
@@ -101,4 +103,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3498-reverse-degree-of-a-string](https://github.com/likhithanarayana6-droid/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
+## Two Pointers
+|  |
+| ------- |
+| [0015-3sum](https://github.com/likhithanarayana6-droid/Leetcode/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
